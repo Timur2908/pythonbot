@@ -1,4 +1,1 @@
-"# Weatherbot" 
-"# Weatherbot" 
-"# pythonbot" 
 "# pythonbot" 
